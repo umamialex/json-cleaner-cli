@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/suitupalex/json-cleaner-cli",
   "dependencies": {
-    "chalk": "^1.1.1",
+    "chalk": "^1.1.2",
     "commander": "^2.9.0",
     "diff": "^2.1.3"
   },
